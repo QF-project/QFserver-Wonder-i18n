@@ -1,0 +1,34 @@
+{
+  "itemGroup.createenchant.main":"机械动力：附魔附加",
+
+  "createenchant.tooltip.enchantment_extractor.help.step1.title": "步骤一:",
+  "createenchant.tooltip.enchantment_extractor.help.step1": "放上书本",
+  "createenchant.tooltip.enchantment_extractor.help.step2.title": "步骤二:",
+  "createenchant.tooltip.enchantment_extractor.help.step2": "放上已附魔物品或附魔书",
+  "createenchant.tooltip.enchantment_extractor.help.step2.hint": "温馨提醒:",
+  "createenchant.tooltip.enchantment_extractor.help.step2.hint1": "步骤二是已附魔物品时，所有附魔属性转移至书本",
+  "createenchant.tooltip.enchantment_extractor.help.step2.hint2": "步骤二是附魔书时，转移第一条附魔属性",
+  "createenchant.tooltip.enchantment_extractor.help.step3.title": "步骤三:",
+  "createenchant.tooltip.enchantment_extractor.help.step3": "空手右键取出",
+
+  "block.createenchant.enchantment_extractor": "附魔提取机",
+  "block.createenchant.enchantment_extractor.tooltip": "附魔提取机",
+  "block.createenchant.enchantment_extractor.tooltip.summary": "附魔属性提取器",
+  "block.createenchant.enchantment_extractor.tooltip.condition1": "提取装备附魔时",
+  "block.createenchant.enchantment_extractor.tooltip.behaviour1": "提取所有附魔属性，并保留成本",
+  "block.createenchant.enchantment_extractor.tooltip.control1": "提取附魔书时",
+  "block.createenchant.enchantment_extractor.tooltip.action1": "提取第一项附魔，并保留成本",
+
+  "block.createenchant.withered_obsidian": "杀凋石",
+  "block.createenchant.withered_obsidian.tooltip": "防凋灵黑曜石",
+  "block.createenchant.withered_obsidian.tooltip.summary": "顾名思义",
+  "block.createenchant.withered_glass": "杀凋玻璃",
+  "block.createenchant.withered_glass.tooltip": "防凋灵玻璃",
+  "block.createenchant.withered_glass.tooltip.summary": "顾名思义",
+  "block.createenchant.hardened_glass": "硬化玻璃",
+
+  "item.createenchant.advanced_alloy": "高级合金",
+  "item.createenchant.advanced_alloy_sheet": "高级合金板",
+  "item.createenchant.incomplete_advanced_alloy_sheet": "高级合金板（半成品）",
+  "item.createenchant.slime_boots": "Slime Boots"
+}

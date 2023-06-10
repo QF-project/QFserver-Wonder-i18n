@@ -1,0 +1,35 @@
+{
+  "itemGroup.chess.chessitemgroup": "象棋",
+
+  "block.chess.template": "制棋模板",
+
+  "block.chess.bgeneral": "黑方将",
+  "block.chess.bguard": "黑方士",
+  "block.chess.bminister": "黑方象",
+  "block.chess.bhorse": "黑方马",
+  "block.chess.brook": "黑方车",
+  "block.chess.bcannon": "黑方炮",
+  "block.chess.bsoldier": "黑方卒",
+
+  "block.chess.rgeneral": "红方帅",
+  "block.chess.rguard": "红方仕",
+  "block.chess.rminister": "红方相",
+  "block.chess.rhorse": "红方马",
+  "block.chess.rrook": "红方车",
+  "block.chess.rcannon": "红方炮",
+  "block.chess.rsoldier": "红方兵",
+
+  "block.chess.corner": "角线",
+  "block.chess.tline": "T形线",
+  "block.chess.cross": "十字线",
+  "block.chess.marked_tline": "带标记的T形线",
+  "block.chess.marked_cross": "带标记的十字线",
+  "block.chess.left_i_tline": "左侧带斜线的T形线",
+  "block.chess.right_i_tline": "右侧带斜线的T形线",
+  "block.chess.one_i_cross": "一侧有斜线的十字线",
+  "block.chess.four_i_cross": "米字线",
+  "block.chess.point_cross": "带点的十字线",
+
+  "block.chess.blackpiece": "黑色棋子",
+  "block.chess.whitepiece": "白色棋子"
+}

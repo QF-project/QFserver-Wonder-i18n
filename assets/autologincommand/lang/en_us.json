@@ -1,0 +1,36 @@
+{
+	"text.autoconfig.auto_login.title": "Auto Login Command",
+
+	"text.autoconfig.auto_login.option.defaultAddressEntry": "默认服务器项",
+	"text.autoconfig.auto_login.option.defaultAddressEntry.@Tooltip": "在服务器项列表中新创建的服务器项将默认使用这里的设置。",
+	"text.autoconfig.auto_login.option.defaultAddressEntry.list": "指令项列表",
+	"text.autoconfig.auto_login.option.defaultAddressEntry.list.@Tooltip": "储存着所有的指令和对应的延迟。",
+	"text.autoconfig.auto_login.option.defaultAddressEntry.reconnect": "断线重连",
+	"text.autoconfig.auto_login.option.defaultAddressEntry.reconnect.@Tooltip": "断线重连的延迟。单位：毫秒。默认：-1。\n设为负数以关闭断线重连。\n【注】如果数值太小（例如0），可能无法成功重连，请尽量设置得长一些（例如1000）。",
+	"text.autoconfig.auto_login.option.defaultAddressEntry.period": "断线重连周期",
+	"text.autoconfig.auto_login.option.defaultAddressEntry.period.@Tooltip": "断线重连的尝试周期，当第一次重连失败后，过此值对应的时间后会再次尝试连接，可以随时退出连接失败界面以停止尝试。单位：毫秒。默认：1000。\n设为非正数以关闭断线重连的重复尝试。\n",
+
+	"text.autoconfig.auto_login.option.list": "Server Entry List",
+	"text.autoconfig.auto_login.option.list.@Tooltip": "Stores set auto login command entry.",
+	"text.autoconfig.auto_login.option.AddressEntry": "Server Entry",
+	"text.autoconfig.auto_login.option.AddressEntry.address": "Server Address",
+	"text.autoconfig.auto_login.option.AddressEntry.address.@Tooltip": "[Note] When you edit address in the multiplayer screen, this item won't follow the change, please edit this manually.\nIf you create new server entry in a server, the current server address will be automatically filled in",
+	"text.autoconfig.auto_login.option.AddressEntry.list": "Command Entry List",
+	"text.autoconfig.auto_login.option.AddressEntry.list.@Tooltip": "It stores all the commands and the corresponding delays.",
+	"text.autoconfig.auto_login.option.AddressEntry.reconnect": "Reconnect From Disconnection",
+	"text.autoconfig.auto_login.option.AddressEntry.reconnect.@Tooltip": "Delay in reconnection after disconnection. In milliseconds. Default:-1. \nSet to negative to turn off disconnection. \n[Note] If the value is too small (e.g. 0) , you may not be able to successfully reconnect, please set it as large as possible (e.g. 1) .",
+
+	"text.autoconfig.auto_login.option.CommandEntry": "Command Entry",
+	"text.autoconfig.auto_login.option.CommandEntry.delay": "Delay",
+	"text.autoconfig.auto_login.option.CommandEntry.delay.@Tooltip": "The time interval from entering server to sending command. Unit: ms. Default: 3000.\n[Note] In some servers, if you send command immediately after entering the sever, you will be kicked, so it needs to be delayed for a while.",
+	"text.autoconfig.auto_login.option.CommandEntry.string": "String",
+	"text.autoconfig.auto_login.option.CommandEntry.string.@Tooltip": "The command sent to the server, which needs to start with'/'. If it doesn't start with'/', it will just send a normal chat message.",
+	"text.autoconfig.auto_login.option.AddressEntry.period": "断线重连周期",
+	"text.autoconfig.auto_login.option.AddressEntry.period.@Tooltip": "断线重连的尝试周期，当第一次重连失败后，过此值对应的时间后会再次尝试连接，可以随时退出连接失败界面以停止尝试。单位：毫秒。默认：1000。\n设为非正数以关闭断线重连的重复尝试。\n",
+
+	"command.auto_login.cleared": "Cleared.",
+	"command.auto_login.success": "Set：\n",
+	"command.auto_login.local": "In single player world!",
+	"command.auto_login.none": "Not set",
+	"command.auto_login.pair": "Delay=%s\nString=\"%s\""
+}
